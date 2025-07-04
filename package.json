@@ -1,0 +1,22 @@
+{
+  "name": "yjs-quill-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "quill": "^2.0.3",
+    "quill-cursors": "^4.0.4",
+    "ws": "^8.18.3",
+    "y-quill": "^1.0.0",
+    "y-websocket": "^3.0.0",
+    "yjs": "^13.6.27"
+  }
+}
